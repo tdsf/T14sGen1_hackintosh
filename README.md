@@ -26,7 +26,7 @@ Should you find an error or improve anything — whether in the config or in the
 &nbsp;
 
 ## 🏗️ Preparation
-<details>  
+
 <summary><strong>Download macOS Sonoma</strong></summary>
 1. Following [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) download latest macOS Sonoma version.
   Using the App Store is the easyiest way if you are already running a macOS, even throgh a VM. Command Line Software Update Utility its pretty easy too. Format and setup installer according to the guide.
@@ -38,12 +38,12 @@ Should you find an error or improve anything — whether in the config or in the
 &nbsp;
 
 ## 🧰 Post-Install (Optional)
-<details>  
+
 <summary><strong>YogaSMCPanel</strong></summary>
 </br>
 
 1. Install [YogaSMCPanel](https://github.com/zhen-zen/YogaSMC)
-</details>  
+
 
 &nbsp;
 
